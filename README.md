@@ -1,4 +1,5 @@
 # Litnerd Letters Landing Page
+
 ## Project Overview
 Litnerd Letters is a platform designed to provide a user-friendly space for writing and sharing articles. Inspired by a friend's need for an easy-to-use blogging platform, this project aims to offer a personalized and engaging experience for writers and readers alike.
 
